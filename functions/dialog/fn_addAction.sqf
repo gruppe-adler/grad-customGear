@@ -7,4 +7,4 @@
 params ["_object"];
 
 if (isNil "_object") exitWith {};
-_object addAction ["Persönliche Ausrüstung Speichern", {[] call grad_customGear_fnc_openDialog}, [], 3, true, true];
+_object addAction ["Persönliche Ausrüstung Speichern", {[] call grad_customGear_fnc_openDialog}, [], 3, false, true];
