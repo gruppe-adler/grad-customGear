@@ -14,6 +14,12 @@ This will allow players to open the saving dialog.
 ### Loading
 Add this to your `description.ext`:
 ```
+#include "node_modules\grad-customGear\saveDialog\dialog.hpp"
+
+class CfgFunctions {
+  #include "node_modules\grad-customGear\cfgFunctions.hpp"
+};
+
 class grad_customGear {
   allowHelmet = 1;
   allowGoggles = 1;
