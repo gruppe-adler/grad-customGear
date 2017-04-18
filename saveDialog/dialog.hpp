@@ -68,7 +68,7 @@ class customGear_saveDialog {
             h = sd_rowH;
 
             sizeEx = 0.04 * TEXT_SCALE;
-            text = "Sight 1x (NATO)";
+            text = "Optics 1x (NATO)";
         };
 
         class Category3: sd_RscText {
@@ -80,7 +80,7 @@ class customGear_saveDialog {
             h = sd_rowH;
 
             sizeEx = 0.04 * TEXT_SCALE;
-            text = "Scope < 4x (NATO)";
+            text = "Optics < 4x (NATO)";
         };
 
         class Category4: sd_RscText {
@@ -92,7 +92,7 @@ class customGear_saveDialog {
             h = sd_rowH;
 
             sizeEx = 0.04 * TEXT_SCALE;
-            text = "Scope > 4x (NATO)";
+            text = "Optics > 4x (NATO)";
         };
 
         class Category5: sd_RscText {
@@ -104,7 +104,7 @@ class customGear_saveDialog {
             h = sd_rowH;
 
             sizeEx = 0.04 * TEXT_SCALE;
-            text = "Sight 1x (RUS)";
+            text = "Optics 1x (RUS)";
         };
 
         class Category6: sd_RscText {
@@ -116,7 +116,7 @@ class customGear_saveDialog {
             h = sd_rowH;
 
             sizeEx = 0.04 * TEXT_SCALE;
-            text = "Scope > 1x (RUS)";
+            text = "Optics > 1x (RUS)";
         };
 
         class Current0: sd_RscTextR {
@@ -355,7 +355,7 @@ class customGear_helpDialog {
             w = sd_mainW - sd_paddingX - sd_paddingX;
             h = sd_mainH - sd_paddingY - sd_paddingY;
 
-            text = "Das hier gespeicherte Equipment kann in einigen unserer COOP Missionen bei Spielstart geladen werden.<br /><br />Über die 'save' / 'überschreiben' Buttons werden die derzeit ausgerüsteten Gegenstände abgespeichert. Ist ein Button ausgegraut, bedeutet das, dass du keinen Gegenstand dieser Kategorie ausgerüstet hast.<br/><br/>Welches der gespeicherten Visiere geladen wird ist vom vorgegebenen Loadout der Mission abhängig. Ist ein stark vergrößerndes Visier vorgegeben, so wird auch das 'ab 4x' Visier geladen.";
+            text = "Das hier gespeicherte Equipment kann in einigen unserer COOP Missionen bei Spielstart geladen werden.<br /><br />Über die 'save' / 'overwrite' Buttons werden die derzeit ausgerüsteten Gegenstände abgespeichert. Ist ein Button ausgegraut, bedeutet das, dass du keinen Gegenstand dieser Kategorie ausgerüstet hast.<br/><br/>Welches der gespeicherten Visiere geladen wird ist vom vorgegebenen Loadout der Mission abhängig. Ist ein stark vergrößerndes Visier vorgegeben, so wird auch das 'ab 4x' Visier geladen.";
         };
     };
 

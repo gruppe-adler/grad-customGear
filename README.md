@@ -28,6 +28,7 @@ class grad_customGear {
     allowSimpleScopes = 1;
     allowMagnifyingScopes = 1;
     allowMarksmanScopes = 1;
+    actionsOnMissionStart = 1;
 };
 ```
 Adjust values to define what players may load after mission start.

@@ -9,7 +9,7 @@
 
 #define sd_rowH                 (0.025 * Y_SCALE)
 #define sd_categoryW            (0.20 * X_SCALE)
-#define sd_currentW             (0.25 * X_SCALE)
+#define sd_currentW             (0.35 * X_SCALE)
 #define sd_saveButtonW          (0.15 * X_SCALE)
 
 #define sd_closeButtonW         (sd_titleH * 0.8)
