@@ -23,11 +23,11 @@ This will allow players to open the saving dialog.
 Add this to your `description.ext`:
 ```
 class grad_customGear {
-  allowHelmet = 1;
-  allowGoggles = 1;
-  allowSimpleScopes = 1;
-  allowMagnifyingScopes = 1;
-  allowMarksmanScopes = 1;
+    allowHelmet = 1;
+    allowGoggles = 1;
+    allowSimpleScopes = 1;
+    allowMagnifyingScopes = 1;
+    allowMarksmanScopes = 1;
 };
 ```
 Adjust values to define what players may load after mission start.
