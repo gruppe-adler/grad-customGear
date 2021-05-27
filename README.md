@@ -1,3 +1,6 @@
+**This project has been discontinued. Its features are now part of https://github.com/gruppe-adler/grad-loadout !**
+
+
 # GRAD Custom Gear
 Save personalized gear.
 
